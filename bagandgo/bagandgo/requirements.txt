@@ -1,0 +1,24 @@
+Django==5.1.2
+django-rest-framework
+django-ckeditor
+django-taggit
+django-taggit-serializer
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+pillow
+django-storages
+requests
+python-dotenv
+bs4
+lxml
+psycopg2-binary
+python-dotenv
+urllib3
+httpcore
+python-magic
+# python-magic-bin==0.4.14
+django-debug-toolbar
+beautifulsoup4
+django-extensions
